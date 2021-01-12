@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\Yato.DirectXOverlay.exe.config
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\Yato.DirectXOverlay.exe
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\NGraphics.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\NGraphics.WPF.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.DXGI.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\NGraphics.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\NGraphics.WPF.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\SharpDX.DXGI.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Yato.DirectXOverlay\obj\Release\Yato.DirectXOverlay.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Yato.DirectXOverlay\obj\Release\Yato.DirectXOverlay.exe
